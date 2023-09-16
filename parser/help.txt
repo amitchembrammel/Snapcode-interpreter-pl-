@@ -1,0 +1,13 @@
+<any doubts in running the programm? dm me through instagram! the link is given in my profile!
+
+
+
+The interpreter file contains the essential code that is required to convert it into machine code . the .py basic file contains the syntaxes and basic stuff of the language!!!!!
+
+To run , Run the Shell.py program/file!
+Make sure the files are in one single folder(except th .txt files :) )
+also make sure the interpreter.py file called / intended in shell.py program!!!!!!!!!
+
+
+
+DISCLAIMER: THIS VERSION OF THE INTERPRETR SUPPORTS PYTHON SYNTAXES TOO!!
